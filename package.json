@@ -1,0 +1,9 @@
+{
+  "name": "analyse-datalogger-rc-4-5-conventional",
+  "version": "0.1.0",
+  "description": "analyse txt files of rc 4&5 conventional",
+  "devDependencies": {
+    "handlebars": "4.0.5",
+    "moment": "2.11.2"
+  }
+}
